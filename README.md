@@ -28,7 +28,7 @@ This project is a personalized recipe recommendation system that suggests recipe
 
 ### Files Description
 
-- `/data/RAW_recipes.csv`: The original dataset containing recipe details from Kaggle.
+- `/data/RAW_recipes.csv`: The original dataset containing recipe details from Kaggle (https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions).
 - `/data/filtered_recipes.csv`: Preprocessed recipe data after cleaning.
 - `/data/user_input.json`: Stores the user's preferences such as health goals and calorie budget.
 - `/data/filtered_user_recipes.csv`: Recipes filtered based on user input.
