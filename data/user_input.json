@@ -1,0 +1,7 @@
+{
+    "dietary_restrictions": ["vegetarian", "gluten-free"],
+    "health_goals": "low-carb",
+    "excluded_ingredients": ["nuts", "shellfish"],
+    "calorie_budget_per_meal": 500,
+    "preferred_meal_types": ["breakfast", "dinner"]
+}
